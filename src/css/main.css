@@ -44,6 +44,9 @@ h3.year {
 .button {
   display: inline;
 }
+.card {
+  margin: 0 auto;
+}
 
 .exercise-content {
   text-align: center;
